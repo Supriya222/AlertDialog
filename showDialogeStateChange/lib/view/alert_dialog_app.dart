@@ -48,15 +48,7 @@ class AlertDialogApp extends StatelessWidget {
                           ),
                         ],
                       ),
-                      // child: TextField(
-                      //   controller: usernameController,
-                      //   onChanged: (value) => _saveUsername(value),
-                      //   decoration: InputDecoration(
-                      //     hintText: 'Username',
-                      //     prefixIcon: Icon(Icons.account_circle),
-                      //   ),
-                      // ));
-                      //}
+                      
                     );
                   }),
                   actions: <Widget>[
